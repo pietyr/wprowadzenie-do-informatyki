@@ -8,3 +8,4 @@ Rozwiązania zadań z laboratorium przedmiotu Wprowadzenie do Informatyki
         - [Zadanie 1.1 - Utworzyć projekt i zamieścić kod z instrukcji.](lab-1/zad-1.py)
     - Rozdział 2. Podstawowe operacje na danych. Interakcja z użytkownikiem. Instrukcja warunkowa
         - [Zadanie 2.1 - Zaprogramować jeden przebieg gry „Papier, nożyce, kamień”.](lab-1/zad-2-1.py)
+        - [Zadanie 2.2 - Pobrać od użytkownika trzy dodatnie liczby, a następnie odnaleźć i wypisać największą z nich.](lab-1/zad-2-2.py)
