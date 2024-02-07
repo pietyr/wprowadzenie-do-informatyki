@@ -11,3 +11,5 @@ Rozwiązania zadań z laboratorium przedmiotu Wprowadzenie do Informatyki
         - [Zadanie 2.2 - Pobrać od użytkownika trzy dodatnie liczby, a następnie odnaleźć i wypisać największą z nich.](lab-1/zad-2-2.py)
         - [Zadanie 2.3 - Wyświetlić sumę cyfr oraz liczbę jedności, dziesiątek i setek podanej liczby](lab-1/zad-2-3.py)
         - [Zadanie 2.3 - Pierwiastki równania kwadratowego](lab-1/zad-2-4.py)
+    - Rozdział 3. Wprowadzenie do pętli. Tryb pracy krokowej.
+        - [Zadanie 3.1 - "Papier, nożyce, kamień" z wykorzystaniem pętli](lab-1/zad-3-1.py)
