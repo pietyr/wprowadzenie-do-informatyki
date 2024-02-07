@@ -13,3 +13,4 @@ Rozwiązania zadań z laboratorium przedmiotu Wprowadzenie do Informatyki
         - [Zadanie 2.3 - Pierwiastki równania kwadratowego](lab-1/zad-2-4.py)
     - Rozdział 3. Wprowadzenie do pętli. Tryb pracy krokowej.
         - [Zadanie 3.1 - "Papier, nożyce, kamień" z wykorzystaniem pętli](lab-1/zad-3-1.py)
+        - [Zadanie 3.2 - Wczytać w pętli n liczb z przedziału od 10 do 50, a następnie wyświetlić sumę ich kwadratów](lab-1/zad-3-2.py)
