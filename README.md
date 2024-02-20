@@ -14,3 +14,4 @@ Rozwiązania zadań z laboratorium przedmiotu Wprowadzenie do Informatyki
     - Rozdział 3. Wprowadzenie do pętli. Tryb pracy krokowej.
         - [Zadanie 3.1 - "Papier, nożyce, kamień" z wykorzystaniem pętli](lab-1/zad-3-1.py)
         - [Zadanie 3.2 - Wczytać w pętli n liczb z przedziału od 10 do 50, a następnie wyświetlić sumę ich kwadratów](lab-1/zad-3-2.py)
+        - [Zadanie 3.3 - Wczytywać liczy od użytkownika do momentu, gdy ich suma przekroczy 255 lub iloczyn będzie większy od 50000, a następnie wyświetlić ich średnią arytmetyczną.](lab-1/zad-3-3.py)
